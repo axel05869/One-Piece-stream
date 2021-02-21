@@ -110,14 +110,16 @@ while True:
 	</head>
 	<body style="height:100%; background-color:#0B0B0C;">
 		<div style="height:100%; width:1280px; padding-top: 50px; margin:0 auto;">
-			<a href="{videolink}" download style="color:#C8C3BC; font-family:Gill Sans,sans-serif; float:right; margin-bottom: 8px;"><img src="https://cutt.ly/xlsxwwc" width="40px"></a>
+			<a href="{videolink}" download style="color:#C8C3BC; font-family:Gill Sans,sans-serif; float:right; margin-bottom: 8px;">
+			<img src="https://cutt.ly/xlsxwwc" width="40px" title="Download">
+			</a>
 			<center>
 			<video width="1280" height="720" controls>
 			<source src="{videolink}" type=video/mp4>
 			</video>
 			</center>
 			<h2 style="color:#C8C3BC; font-family:Gill Sans,sans-serif; float:left;">Episode {inputep} - {episode_title_grabber(inputep-1)}</h2>
-			<image src="https://bit.ly/2NoMmcp" style="width:220px; margin-top:8px; float:right;" alt="One Piece Logo"></image>
+			<image src="https://bit.ly/2NoMmcp" style="width:220px; margin-top:8px; float:right;" alt="One Piece Logo">
 		</div>
 	</body>
 	</html>
