@@ -110,7 +110,7 @@ while True:
 	</head>
 	<body style="height:100%; background-color:#0B0B0C;">
 		<div style="height:100%; width:1280px; padding-top: 50px; margin:0 auto;">
-			<a href="{videolink}" download style="color:#C8C3BC; font-family:Gill Sans,sans-serif; float:right; margin-bottom: 8px;">Download</a>
+			<a href="{videolink}" download style="color:#C8C3BC; font-family:Gill Sans,sans-serif; float:right; margin-bottom: 8px;"><img src="https://cutt.ly/xlsxwwc" width="40px"></a>
 			<center>
 			<video width="1280" height="720" controls>
 			<source src="{videolink}" type=video/mp4>
