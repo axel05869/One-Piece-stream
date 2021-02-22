@@ -13,7 +13,8 @@ A python program used to watch One Piece.
 2. Open CMD and type:
     ``` 
     pip install bs4
-    pip install requests 
+    pip install requests
+    pip install colorama
     ```
 3. [Download](https://github.com/axel05869/One-Piece-stream/archive/main.zip) and run opstream.py
 
