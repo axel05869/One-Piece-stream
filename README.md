@@ -4,8 +4,8 @@ A python program used to watch One Piece.
 ## PREVIEW
 
 <p align="center">
-  <img src="https://github.com/axel05869/One-Piece-stream/blob/main/capture/prev1.png" width="550" />
-  <img src="https://github.com/axel05869/One-Piece-stream/blob/main/capture/prev2.PNG" width="550" />
+  <img src="https://github.com/axel05869/One-Piece-stream/blob/main/capture/prev1.png" width="650" />
+  <img src="https://github.com/axel05869/One-Piece-stream/blob/main/capture/prev2.PNG" width="650" />
 </p>
 
 ## HOW TO USE
