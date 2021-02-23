@@ -1,7 +1,7 @@
 # Watch One Piece
 A python program used to watch One Piece.
 
-### PLEASE USE OLDVERSION, THE LATEST VERSION IS QUITE BUGGY.
+### USE THE OLDVERSION(opstream1.2.py), THE LATEST VERSION IS QUITE BUGGY.
 
 ## PREVIEW
 
@@ -11,7 +11,7 @@ A python program used to watch One Piece.
 </p>
 
 ## HOW TO USE
-1. Install [Python](https://www.python.org/downloads/) make sure to check "add to PATH" in installation prompt
+1. Install [Python](https://www.python.org/downloads/) make sure to check "add python to PATH" in installation prompt
 2. Open CMD and type:
     ``` 
     pip install bs4
