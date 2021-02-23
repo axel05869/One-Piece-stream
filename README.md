@@ -1,7 +1,7 @@
 # Watch One Piece
 A python program used to watch One Piece.
 
-### USE THE OLDVERSION(opstream1.2.py), THE LATEST VERSION IS QUITE BUGGY.
+### USE THE OLDVERSION (opstream1.2.py), THE LATEST VERSION IS QUITE BUGGY.
 
 ## PREVIEW
 
