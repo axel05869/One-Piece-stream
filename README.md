@@ -1,6 +1,8 @@
 # Watch One Piece
 A python program used to watch One Piece.
 
+### PLEASE USE OLDVERSION, THE LATEST VERSION IS QUITE BUGGY.
+
 ## PREVIEW
 
 <p align="center">
