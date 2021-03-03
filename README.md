@@ -1,7 +1,7 @@
 # Watch One Piece
 A python program used to watch One Piece.
 
-### STATUS: WORKING
+### STATUS: NEED TO FIX SOURCE
 
 ## PREVIEW
 
